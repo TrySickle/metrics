@@ -1,0 +1,6 @@
+*.npy
+/.vscode
+/.ipynb_checkpoints
+/__pycache__
+/VR_data/
+/model/
